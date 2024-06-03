@@ -1,0 +1,59 @@
+/* App.css */
+
+body {
+    background-color: #3E2723; /* Dark brown */
+    color: #D7CCC8; /* Beige */
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .navbar {
+    background-color: #4E342E; /* Slightly lighter dark brown for the navbar */
+  }
+  
+  .navbar-brand, .navbar-text {
+    color: #D7CCC8 !important; /* Beige text */
+  }
+  
+  .navbar-dark .navbar-brand:hover, .navbar-dark .navbar-brand:focus {
+    color: #EFEBE9 !important; /* Lighter beige for hover */
+  }
+  
+  .card {
+    background-color: #5D4037; /* Dark brown for cards */
+    border: none;
+  }
+  
+  .card-body {
+    color: #D7CCC8; /* Beige text for card content */
+  }
+  
+  .table {
+    color: #D7CCC8; /* Beige text for tables */
+  }
+  
+  .input-group-text, .form-control, .btn-primary {
+    background-color: #4E342E; /* Matching dark brown */
+    border: none;
+    color: #D7CCC8; /* Beige text */
+  }
+  
+  .btn-primary:hover {
+    background-color: #6D4C41; /* Slightly lighter brown for hover */
+  }
+  
+  .btn-link {
+    color: #D7CCC8; /* Beige text for links */
+  }
+  
+  .btn-link:hover {
+    color: #EFEBE9; /* Lighter beige for hover */
+  }
+  
+  /* Custom styles for navbar */
+  .custom-navbar-height {
+    height: 70px; /* Adjust the height as needed */
+    display: flex;
+    align-items: center;
+  }
+  
+  
