@@ -56,14 +56,14 @@ The application leverages the power of the Ethereum blockchain to ensure transpa
 
 ## Screenshots of the website
 
-<img src="https://github.com/gitpushOmnik/NFT-Marketplace/blob/main/README/contract-testing.png" width="1250" height="500"> 
-<img src="https://github.com/gitpushOmnik/NFT-Marketplace/blob/main/README/initial-page.png" width="1250" height="500"> 
-<img src="https://github.com/gitpushOmnik/NFT-Marketplace/blob/main/README/input-value.png" width="1250" height="500"> 
-<img src="https://github.com/gitpushOmnik/NFT-Marketplace/blob/main/README/staking.png" width="400" height="500"> 
-<img src="https://github.com/gitpushOmnik/NFT-Marketplace/blob/main/README/staking2.png" width="400" height="500"> 
-<img src="https://github.com/gitpushOmnik/NFT-Marketplace/blob/main/README/staked.png" width="1250" height="500"> 
-<img src="https://github.com/gitpushOmnik/NFT-Marketplace/blob/main/README/reward.png" width="1250" height="500"> 
-<img src="https://github.com/gitpushOmnik/NFT-Marketplace/blob/main/README/unstake.png" width="400" height="500"> 
+<img src="https://github.com/gitpushOmnik/DeFi-Bank-Farm/blob/main/README/contract-testing.png" width="1250" height="500"> 
+<img src="https://github.com/gitpushOmnik/DeFi-Bank-Farm/blob/main/README/initial-page.png" width="1250" height="500"> 
+<img src="https://github.com/gitpushOmnik/DeFi-Bank-Farm/blob/main/README/input-value.png" width="1250" height="500"> 
+<img src="https://github.com/gitpushOmnik/DeFi-Bank-Farm/blob/main/README/staking.png" width="400" height="500"> 
+<img src="https://github.com/gitpushOmnik/DeFi-Bank-Farm/blob/main/README/staking2.png" width="400" height="500"> 
+<img src="https://github.com/gitpushOmnik/DeFi-Bank-Farm/blob/main/README/staked.png" width="1250" height="500"> 
+<img src="https://github.com/gitpushOmnik/DeFi-Bank-Farm/blob/main/README/reward.png" width="1250" height="500"> 
+<img src="https://github.com/gitpushOmnik/DeFi-Bank-Farm/blob/main/README/unstake.png" width="400" height="500"> 
 
 ## License
 
